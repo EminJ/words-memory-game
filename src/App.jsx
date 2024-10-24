@@ -121,8 +121,8 @@ function App() {
               </div>
             : 
             <div className='flex flex-col justify-center items-center'>
-              <h1 className='text-4xl font-bold mb-2'>Good Game! Reply?</h1>
-              <p>Your Score : {userScore}  <a href="/" className='text-xs text-blue-500 font-bold'>Share</a></p>
+              <h1 className='text-4xl font-bold mb-2'>Good game! Do you want to play it again?</h1>
+              <p className='flex items-center'>Your Score : {userScore}</p>
               <button className='btn mt-5' onClick={() => handleStartButton()}>Replay</button>
             </div>  
             }

@@ -13,11 +13,6 @@ export function Navbar() {
                         <li>
                             <ThemeButton />
                         </li>
-                        <li>
-                            <button className="btn btn-ghost" aria-label="Ayarlar">
-                                <LuSettings className="text-xl" />
-                            </button>
-                        </li>
                     </ul>
                 </div>
             </div>
