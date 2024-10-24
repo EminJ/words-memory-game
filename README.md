@@ -17,7 +17,7 @@ Check out the live demo: [Portfolio Website](https://your-portfolio.vercel.app)
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/EminJ/words-memory-game.git
 ```
 
 2. Install dependencies
