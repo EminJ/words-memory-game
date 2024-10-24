@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.baloo{
+    font-family: "Baloo Paaji 2", sans-serif;
+}
